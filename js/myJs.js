@@ -3,11 +3,11 @@ const textConfig = {
   text2: "Anh có điều này muốn hỏi Em nhớ phải trả lời thật lòng nhaaa.",
   text3: "Em yêu Anh có phải không nào ._.",
   text4: "Nếu Em ko trả lời mà thoát ra tức là muốn làm người yêu Anh rùi đó nha",
-  text5: "Em mơ à???",
+  text5: "Anh mơ à???",
   text6: "Yêu ơi là yêu <3",
   text7: "Lí do Em thích Anh đi :vvvv",
   text8: "Gửi cho Anh <3",
-  text9: "Vì em xinh đẹp vlllll",
+  text9: "Vì anh đẹp trai vlllll",
   text10: "Anh biết mà ^^ Yêu Em 300.000",
   text11:
     "Tối nay Anh qua đón Em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho Anh đi nàooo",
